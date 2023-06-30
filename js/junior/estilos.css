@@ -1,0 +1,11 @@
+.padre{
+  width: 100%;
+}
+.img1{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.prueba1, .prueba2, .prueba3{
+  text-align: center;
+}
